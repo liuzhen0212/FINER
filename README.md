@@ -16,9 +16,10 @@
 
 We propose a novel implicit neural representation with flexible spectral-bias tuning for representing and optimizing signals. The repo contains the codes for image fitting. For the SDF and NeRF experiments, we utilized the codes of [Bacon](https://github.com/computational-imaging/bacon) and [torch-ngp](https://github.com/ashawkey/torch-ngp), respectively.
 
-<div style="text-align:center">
-    <img src="img/activations.png" alt="Activations" width="70%">
-</div>
+<center>
+<img src="img/activations.png" alt="Activations" width="70%">
+</center>
+
 
 ## Setup
 ```bash
