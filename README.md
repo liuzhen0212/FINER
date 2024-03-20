@@ -14,7 +14,11 @@
 
 ## [Project Page](https://liuzhen0212.github.io/finer/) | [Paper](https://arxiv.org/abs/2312.02434)
 
-We propose a novel implicit neural representation with flexible spectral-bias tuning for representing and optimizing signals. The repo contains the codes for image fitting.
+We propose a novel implicit neural representation with flexible spectral-bias tuning for representing and optimizing signals. The repo contains the codes for image fitting. For the SDF and NeRF experiments, we utilized the codes of [Bacon](https://github.com/computational-imaging/bacon) and [torch-ngp](https://github.com/ashawkey/torch-ngp), respectively.
+
+<div style="text-align:center">
+    <img src="img/activations.png" alt="Activations" width="70%">
+</div>
 
 ## Setup
 ```bash
