@@ -6,6 +6,7 @@
 [Hao Zhu](https://pakfa.github.io/zhuhao_photo.github.io/)<sup>1,\*</sup>,
 [Qi Zhang](https://qzhang-cv.github.io/)<sup>2</sup>,
 [Jingde Fu](https://fiddiemath.github.io/)<sup>1</sup>,
+[Weibing Deng](https://math.nju.edu.cn/szdw/apypl1/20190916/i22123.html)<sup>1</sup>,
 [Zhan Ma](https://vision.nju.edu.cn/main.htm)<sup>1</sup>,
 [Yanwen Guo](https://cs.nju.edu.cn/ywguo/index.htm)<sup>1</sup>,
 [Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html)<sup>1</sup>,
