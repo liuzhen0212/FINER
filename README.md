@@ -32,7 +32,8 @@ pip install -r requirements.txt
 
 ### Image Fitting
 ```bash
-bash run_finer.sh # run_siren.sh; run_pemlp.sh; run_gauss.sh; run_wire.sh
+bash run_finer.sh 
+# run_siren.sh; run_pemlp.sh; run_gauss.sh; run_wire.sh
 ```
 
 ## Visualizations
