@@ -35,6 +35,10 @@ pip install -r requirements.txt
 bash run_finer.sh # run_siren.sh; run_pemlp.sh; run_gauss.sh; run_wire.sh
 ```
 
+## Visualizations
+- [The outputs of the first layer neurons](https://github.com/liuzhen0212/FINER/blob/main/figure_6/firstlayer_neurons.ipynb)
+
+
 ## Citation
 ```BibTeX
 @inproceedings{liu2024finer,
