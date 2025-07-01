@@ -1,1 +1,9 @@
 logs
+__pycache__
+/sdf/bacon/img
+/sdf/bacon/data
+/sdf/bacon/logs_Finer++
+/sdf/bacon/logs_rebuttal
+/sdf/bacon/logs_supplement
+/sdf/bacon/experiments/outputs
+/ntk
