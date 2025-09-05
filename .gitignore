@@ -1,8 +1,10 @@
 logs
 __pycache__
-/sdf/bacon/data
-/sdf/bacon/logs_Finer++
-/sdf/bacon/logs_rebuttal
-/sdf/bacon/logs_supplement
-/sdf/bacon/experiments/outputs
-/ntk/outputs
+sdf/bacon/data
+sdf/bacon/logs_Finer++
+sdf/bacon/logs_rebuttal
+sdf/bacon/logs_supplement
+sdf/bacon/experiments/outputs
+ntk/outputs
+ntk/ntk_dwire.ipynb
+ntk/ntk_eigenvalues_cmp.png
